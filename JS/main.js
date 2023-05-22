@@ -41,7 +41,7 @@ function android18() {
 }
 
 function trunks() {
-  document.querySelector('#video').style.backgroundImage = 'url(../img/13TrunksSword.gif)'
+  document.querySelector('#video').style.backgroundImage = 'url(file:///C:/Users/micha/OneDrive/Documents/GitHub/Dargaon-Ball-Z/img/13TrunksSword.gif)'
   document.querySelector("#video").style.border = "1rem solid black"
   document.querySelector('#video').style.backgroundSize = 'cover'
   document.querySelector('#video').style.backgroundRepeat = 'no-repeat'
