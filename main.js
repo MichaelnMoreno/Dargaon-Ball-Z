@@ -13,7 +13,7 @@ function goku () {
 }
 
 function gohan() {
-  document.querySelector('#video').style.backgroundImage ="url(../img/9gohanCharging.gif)"
+  document.querySelector('#video').style.backgroundImage ="url(https://media.tenor.com/heQNNVWwDiAAAAAC/isultraevenreal.gif)"
   document.querySelector("#video").style.border = "1rem solid black"
   document.querySelector('#video').style.backgroundSize = 'cover'
   document.querySelector('#video').style.backgroundRepeat = 'no-repeat'
