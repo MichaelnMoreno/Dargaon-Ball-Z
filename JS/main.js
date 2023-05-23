@@ -6,7 +6,7 @@ document.querySelector("#android18").addEventListener("mouseenter", android18)
 document.querySelector("#trunks").addEventListener("mouseenter", trunks)
 
 function goku () {
-  document.querySelector('#video').style.backgroundImage = 'url(../img/8gokuWalking.gif)'
+  document.querySelector('#video').style.backgroundImage = 'url (img/13TrunksSword.gif)'
   document.querySelector("#video").style.border = "1rem solid black"
   document.querySelector('#video').style.backgroundSize = 'cover'
   document.querySelector('#video').style.backgroundRepeat = 'no-repeat'
