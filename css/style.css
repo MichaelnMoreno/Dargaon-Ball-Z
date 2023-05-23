@@ -102,26 +102,3 @@ li img{
     width: 100%;
   }
 }
-
-/* make video responsive */
-
-@media (min-width: 320px) and (max-width: 767px) {
-  h1 {
-    font-size: 4rem;
-    width: 100%;
-  }
-  section ul li{
-    font-size: 2rem;
-    max-width: 100%;
-    max-height: 100%;
-  }
-  li img{
-    width: 10rem;
-    height: 10rem;
-  }
-  #video{
-    width: 100%;
-  }
-}
-```
-```
