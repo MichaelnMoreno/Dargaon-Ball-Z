@@ -13,35 +13,35 @@ function goku () {
 }
 
 function gohan() {
-  document.querySelector('#video').style.backgroundImage ="url(https://media.tenor.com/heQNNVWwDiAAAAAC/isultraevenreal.gif)"
+  document.querySelector('#video').style.backgroundImage ="url(https://media.tenor.com/vGaQ4md93OwAAAAd/gohan-son.gif)"
   document.querySelector("#video").style.border = "1rem solid black"
   document.querySelector('#video').style.backgroundSize = 'cover'
   document.querySelector('#video').style.backgroundRepeat = 'no-repeat'
 }
 
 function vegeta() {
-  document.querySelector('#video').style.backgroundImage = "url(../img/10vegetaCharging.gif)"
+  document.querySelector('#video').style.backgroundImage = "url(https://media.tenor.com/J26CWkFyjwsAAAAd/vegeta-super-saiyan.gif)"
   document.querySelector("#video").style.border = "1rem solid black"
   document.querySelector('#video').style.backgroundSize = 'cover'
   document.querySelector('#video').style.backgroundRepeat = 'no-repeat'
 }
 
 function android17() {
-  document.querySelector('#video').style.backgroundImage = 'url(../img/11android17Charging.gif)'
+  document.querySelector('#video').style.backgroundImage = 'url(https://media.tenor.com/JgqptnjXA4kAAAAC/dbs-goku.gif)'
   document.querySelector("#video").style.border = "1rem solid black"
   document.querySelector('#video').style.backgroundSize = 'cover'
   document.querySelector('#video').style.backgroundRepeat = 'no-repeat'
 }
 
 function android18() {
-  document.querySelector('#video').style.backgroundImage = 'url(../img/12android18Charging.gif)'
+  document.querySelector('#video').style.backgroundImage = 'url(https://media.tenor.com/Pzmj_O4BlekAAAAC/dbz-android18.gif)'
   document.querySelector("#video").style.border = "1rem solid black"
   document.querySelector('#video').style.backgroundSize = 'cover'
   document.querySelector('#video').style.backgroundRepeat = 'no-repeat'
 }
 
 function trunks() {
-  document.querySelector('#video').style.backgroundImage = 'url(file:///C:/Users/micha/OneDrive/Documents/GitHub/Dargaon-Ball-Z/img/13TrunksSword.gif)'
+  document.querySelector('#video').style.backgroundImage = 'url(https://media.tenor.com/6_7PTVdtB3IAAAAC/trunks-flippn-off.gif)'
   document.querySelector("#video").style.border = "1rem solid black"
   document.querySelector('#video').style.backgroundSize = 'cover'
   document.querySelector('#video').style.backgroundRepeat = 'no-repeat'
