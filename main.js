@@ -6,7 +6,7 @@ document.querySelector("#android18").addEventListener("mouseenter", android18)
 document.querySelector("#trunks").addEventListener("mouseenter", trunks)
 
 function goku () {
-  document.querySelector('#video').style.backgroundImage = "url(C:\Users\micha\OneDrive\Documents\GitHub\Dargaon-Ball-Z\img\8gokuWalking.gif)"
+  document.querySelector('#video').style.backgroundImage = 'url(https://i.makeagif.com/media/12-27-2018/iM0Hhm.gif)'
   document.querySelector("#video").style.border = "1rem solid black"
   document.querySelector('#video').style.backgroundSize = 'cover'
   document.querySelector('#video').style.backgroundRepeat = 'no-repeat'
@@ -34,7 +34,7 @@ function android17() {
 }
 
 function android18() {
-  document.querySelector('#video').style.backgroundImage = 'url(../img/12android18Moving.gif)'
+  document.querySelector('#video').style.backgroundImage = 'url(../img/12android18Charging.gif)'
   document.querySelector("#video").style.border = "1rem solid black"
   document.querySelector('#video').style.backgroundSize = 'cover'
   document.querySelector('#video').style.backgroundRepeat = 'no-repeat'
